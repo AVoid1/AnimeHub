@@ -2,7 +2,7 @@
     package="com.example.anime">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="anime"
+        android:label="Anime Hub"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
